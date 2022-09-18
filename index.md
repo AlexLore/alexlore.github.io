@@ -13,7 +13,7 @@
 
 ---
 [Tes](/pdf/Untitled.ipynb)
-<img src="1200px-Jupyter_logo.svg.png?raw=true"/>
+<img src="images/1200px-Jupyter_logo.svg.png?raw=true"/>
 
 ---
 
