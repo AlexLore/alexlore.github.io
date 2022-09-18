@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Tes](/pdf/Week 2 - Day 2 - Classification with Python.ipynb)
+[Tes](/pdf/Untitled.ipynb)
 <img src="1200px-Jupyter_logo.svg.png?raw=true"/>
 
 ---
